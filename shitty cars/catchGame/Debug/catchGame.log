@@ -1,0 +1,17 @@
+﻿  simplePlatformStarter.cpp
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(44): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(140): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(227): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(232): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(284): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(289): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(355): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(356): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(368): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(369): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\simpleplatformstarter.cpp(404): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  catchGame.vcxproj -> C:\Users\c00240102\Desktop\catchGame\Debug\catchGame.exe
